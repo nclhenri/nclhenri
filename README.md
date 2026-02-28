@@ -1,6 +1,8 @@
 <h1 align="left">Seja Bem-vindo(a) ao meu perfil!</h1>
 
-<img src="https://media1.tenor.com/m/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" width="120" />
+<div align="center">
+  <img src="https://media1.tenor.com/m/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" width="250" alt="gif de boas-vindas" />
+</div>
 
 ###
 
