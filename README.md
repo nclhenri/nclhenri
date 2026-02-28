@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou estudando Python<br>🎲 Curiosidade: Gosto de assistir séries (Série atual: Homeland - Segurança Nacional</p>
+<p align="left">📚 Atualmente estou estudando Python<br> 💼 Estagiário em T.I<br> 🎓 Cursando Bacharel em Ciências da Computação (FAM)<br> 🎓 Cursando Bacharel em Ciências da Computação (FAM)<br>🎲 Curiosidade: Gosto de assistir séries. (Série atual: Homeland - Segurança Nacional)</p>
 
 ###
 
