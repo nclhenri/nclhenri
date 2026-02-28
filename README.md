@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg" height="40" alt="visual studio code logo"  />
+  <img src="https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="40" alt="visual studio code logo"  />
   <img width="12" />
 </div>
 
