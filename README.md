@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="left">Seja Bem-vindo(a) ao meu perfil!</h1>
 
-<!--
-**nclhenri/nclhenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Me chamo Nicolas Henrique</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">📚 Atualmente estou estudando Python<br>🎲 Curiosidade: Gosto de assistir séries (Série atual: Homeland - Segurança Nacional</p>
+
+###
+
+<h2 align="left">Ferramentas:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+</div>
+
+###
