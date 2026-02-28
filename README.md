@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Me chamo Nicolas Henrique</p>
+<p align="left">Me chamo Nicolas Henrique.</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre mim!</h2>
 
 ###
 
@@ -20,6 +20,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg" height="40" alt="visual studio code logo"  />
   <img width="12" />
 </div>
 
