@@ -31,4 +31,8 @@
   <img width="12" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nclhenri&color=blue&style=flat" alt="contador de visitas" />
+</p>
+
 ###
