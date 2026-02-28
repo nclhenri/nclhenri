@@ -31,6 +31,17 @@
   <img width="12" />
 </div>
 
+<h2 align="center">🌐 Minhas Redes Sociais</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nclhenri/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@mecomighty" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" alt="Youtube"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nclhenri&color=blue&style=flat" alt="contador de visitas" />
 </p>
