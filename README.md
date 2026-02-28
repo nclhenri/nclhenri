@@ -1,5 +1,7 @@
 <h1 align="left">Seja Bem-vindo(a) ao meu perfil!</h1>
 
+<img src="https://media1.tenor.com/m/TYNpGhXizs0AAAAC/wrecksmgee-hajime.gif" width="120" />
+
 ###
 
 <p align="left">Me chamo Nicolas Henrique.</p>
@@ -22,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="40" alt="visual studio code logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/1c52053f014033660cd30d11c10518825533be130abeb35378f4f7afd80d91b5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" height="40" alt="visual studio code logo"  />
   <img width="12" />
 </div>
 
